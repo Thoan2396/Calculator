@@ -2,7 +2,7 @@
 # Calculator
 
 Live Demo: https://thoan2396.github.io/ChoiceSpa-23/  
-Repo: https://github.com/Thoan2396/ChoiceSpa-23
+Repo: https://github.com/Thoan2396/Calculator.git
 
 概要 :
 -HTML・SCSS・JavaScript を用いて作成したシンプルな電卓アプリです。 
