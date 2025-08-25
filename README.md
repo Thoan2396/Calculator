@@ -1,7 +1,7 @@
 
 # Calculator
 
-Live Demo: https://thoan2396.github.io/ChoiceSpa-23/  
+Live Demo: https://thoan2396.github.io/Calculator/  
 Repo: https://github.com/Thoan2396/Calculator.git
 
 概要 :
